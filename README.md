@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Pranjal Gairola<br>Backend Developer | Java + SpringBoot<br>Currently working on some small projects to learn about frontend especially React<br>I mostly code in Java<br>I love coding, writing logics and learning new things
+I am Pranjal Gairola<br>FullStack Developer<br>Currently working on some small projects to build up a good resume<br>I mostly do problem solving in Java but prefer others for project<br>I love coding, writing logics and learning new things
 
 
 ## 🌐 Socials:
